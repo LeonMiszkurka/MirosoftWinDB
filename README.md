@@ -8,3 +8,13 @@ a windows by mirsosoft, dumbans
 2.go into MirsosoftWinDB > .script
 
 3.run... RunMWD.runfile.bat
+
+
+# Security Policy
+
+## Supported Versions
+
+_____________________________
+Version	Supported
+1.0.0	  ✅
+_____________________________	
